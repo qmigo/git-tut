@@ -1,1 +1,1 @@
-This is a line added in feature1
+Solved the merge conflict
